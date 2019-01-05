@@ -6,6 +6,11 @@ public class Student {
         System.out.println("hell...black");
         System.out.println("hello.....white");
         System.out.println("hello.....white");
-         System.out.println("hello.....white");
+        System.out.println("hello.....white");
+        System.out.println("ada");
+        System.out.println("ada");
+        System.out.println("ada");
+        System.out.println("ada");
+        System.out.println("ada");
     }
 }
