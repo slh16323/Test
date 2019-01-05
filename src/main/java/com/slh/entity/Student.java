@@ -5,5 +5,6 @@ public class Student {
         System.out.println("Hello word!!!!");
         System.out.println("hell...black");
         System.out.println("hello.....white");
+        System.out.println("hello.....white");
     }
 }
