@@ -10,7 +10,5 @@ public class Student {
         System.out.println("ada");
         System.out.println("ada");
         System.out.println("ada");
-        System.out.println("ada");
-        System.out.println("ada");
     }
 }
